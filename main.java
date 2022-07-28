@@ -17,7 +17,7 @@ public class Main {
                 if (num % i == 0) {
                     break;
                 } else {
-                    checker = true;
+                    checker = true ;
                 }
             }
 
