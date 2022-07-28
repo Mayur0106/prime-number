@@ -4,7 +4,7 @@ public static void main(String [] args)
 {
     Scanner gh=new Scanner(system.in);
     
-    intnum=gh.nextInt();
+    int num=gh.nextInt();
 
 }
 }
