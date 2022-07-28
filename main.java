@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner gh = new Scanner(System.in);
 
-        System.out.println("Enter the Number :");
+        System.out.println("Enter the Number : ");
         int num = gh.nextInt();
 
         boolean checker = false;
