@@ -13,7 +13,7 @@ public class Main {
             System.out.println("1 is not prime nor even number : ");
         }
         else {
-            for (int i = 2; i < num; i++) {
+            for (int i = 2; i < num; i++  ) {
                 if (num % i == 0) {
                     break;
                 } else {
