@@ -23,7 +23,7 @@ public class Main {
 
 
             if (checker) {
-                System.out.printf("The Given Number %d is prime ", num);
+                System.out.printf("The Given Number %d is prime ", num );
             } else {
                 System.out.printf("The Given Number %d is not prime ", num);
             }
