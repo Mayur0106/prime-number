@@ -10,7 +10,7 @@ public class Main {
         boolean checker = false;
         if(num==1)
         {
-            System.out.println("1 is not prime nor even number :  ");
+            System.out.println("1 is not prime nor even number : ");
         }
         else {
             for (int i = 2; i < num; i++  ) {
